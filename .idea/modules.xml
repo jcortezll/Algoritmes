@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algoritmes.iml" filepath="$PROJECT_DIR$/Algoritmes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasca 1 - Nombre Hyperpar/Tasca 1 - Nombre Hyperpar.iml" filepath="$PROJECT_DIR$/Tasca 1 - Nombre Hyperpar/Tasca 1 - Nombre Hyperpar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasca 2 - Anys repetits/Tasca 2 - Anys repetits.iml" filepath="$PROJECT_DIR$/Tasca 2 - Anys repetits/Tasca 2 - Anys repetits.iml" />
     </modules>
   </component>
 </project>

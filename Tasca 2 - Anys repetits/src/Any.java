@@ -8,9 +8,6 @@ public class Any {
     public int digitsDiferents(){
         int digitsDif=0;
         int[] contador = new int[10];
-        for(int i=0;i<10;i++){
-            contador[i]=0;
-        }
         long aux=any;
         while (aux>0){
             long modul=aux%10;
